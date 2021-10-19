@@ -1,0 +1,16 @@
+C:\Users\siggi\OneDrive\Desktop\C#\Primer\Primer\bin\Debug\net5.0\Primer.exe
+C:\Users\siggi\OneDrive\Desktop\C#\Primer\Primer\bin\Debug\net5.0\Primer.deps.json
+C:\Users\siggi\OneDrive\Desktop\C#\Primer\Primer\bin\Debug\net5.0\Primer.runtimeconfig.json
+C:\Users\siggi\OneDrive\Desktop\C#\Primer\Primer\bin\Debug\net5.0\Primer.runtimeconfig.dev.json
+C:\Users\siggi\OneDrive\Desktop\C#\Primer\Primer\bin\Debug\net5.0\Primer.dll
+C:\Users\siggi\OneDrive\Desktop\C#\Primer\Primer\bin\Debug\net5.0\ref\Primer.dll
+C:\Users\siggi\OneDrive\Desktop\C#\Primer\Primer\bin\Debug\net5.0\Primer.pdb
+C:\Users\siggi\OneDrive\Desktop\C#\Primer\Primer\obj\Debug\net5.0\Primer.csproj.AssemblyReference.cache
+C:\Users\siggi\OneDrive\Desktop\C#\Primer\Primer\obj\Debug\net5.0\Primer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siggi\OneDrive\Desktop\C#\Primer\Primer\obj\Debug\net5.0\Primer.AssemblyInfoInputs.cache
+C:\Users\siggi\OneDrive\Desktop\C#\Primer\Primer\obj\Debug\net5.0\Primer.AssemblyInfo.cs
+C:\Users\siggi\OneDrive\Desktop\C#\Primer\Primer\obj\Debug\net5.0\Primer.csproj.CoreCompileInputs.cache
+C:\Users\siggi\OneDrive\Desktop\C#\Primer\Primer\obj\Debug\net5.0\Primer.dll
+C:\Users\siggi\OneDrive\Desktop\C#\Primer\Primer\obj\Debug\net5.0\ref\Primer.dll
+C:\Users\siggi\OneDrive\Desktop\C#\Primer\Primer\obj\Debug\net5.0\Primer.pdb
+C:\Users\siggi\OneDrive\Desktop\C#\Primer\Primer\obj\Debug\net5.0\Primer.genruntimeconfig.cache
